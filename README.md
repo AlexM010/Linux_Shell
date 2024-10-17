@@ -1,7 +1,7 @@
 # Linux_Shell
 A custom Unix shell implemented in C that provides basic shell functionalities like command execution, global variables, pipes, and input/output redirection.
 ##Introduction
-This repository contains the source code for hy345sh, a custom Unix shell developed as part of [Course Name]. The shell aims to replicate essential shell features, allowing users to execute commands, manage variables, and manipulate input/output streams.
+This repository contains the source code for hy345sh, a custom Unix shell developed as part of CS345. The shell aims to replicate essential shell features, allowing users to execute commands, manage variables, and manipulate input/output streams.
 
 ## Features
 Command Execution: Supports the execution of built-in and external commands.
