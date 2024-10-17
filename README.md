@@ -10,8 +10,7 @@ Pipes: Enables chaining commands using pipes for data flow.
 Input/Output Redirection: Provides options to redirect input and output to/from files.
 ## Usage
 ### Clone the repository:
-[git clone https://github.com/your-username/hy345sh.git](https://github.com/AlexM010/Linux_Shell.git)
-
+git clone https://github.com/your-username/hy345sh.git
 ## Build the shell:
 make all
 
